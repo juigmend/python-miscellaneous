@@ -3,7 +3,7 @@
 #                                   NOVELTY                                    #
 #                             OFFLINE AND ONLINE                               # 
 #                                                                              #
-#                                17 JULY 2023                                  #
+#                                19 JULY 2023                                  #
 #                                                                              #
 #                          Juan Ignacio Mendoza Garay                          #
 #                               doctoral student                               #
@@ -14,7 +14,7 @@
 
 # INFORMATION:
 
-# Tested with Python 3.8.10
+# Tested with Python 3.11.4
 
 # Description:
 #     Demonstrates computation of novelty. The online method gets more efficient
