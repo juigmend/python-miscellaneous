@@ -7,8 +7,7 @@ Miscellaneous <a href="https://www.python.org/">Python</a> code.
 <br>
 <ul>
 
-<li><a href="https://gitlab.jyu.fi/juigmend/python-miscellaneous/-/blob/main/dtw_DEMO.ipynb">DTW Demonstration</a> 
-(Jupyter notebook) Two methods for the Dynamic Time Warping algorithm: a library function, and a procedural script. </li>
+<li><a href="https://gitlab.jyu.fi/juigmend/python-miscellaneous/-/blob/main/dtw_minwarp.ipynb">DTW and Minimum-Warp Path</a> (Jupyter notebook) Two methods for the Dynamic Time Warping algorithm: a library function, and a procedural script. Also an algorithm to reduce the time-warping of the optimal path.</li>
 
 <br>
 
