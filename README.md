@@ -7,7 +7,7 @@ Miscellaneous <a href="https://www.python.org/">Python</a> code.
 <br>
 <ul>
 
-<li><a href="https://gitlab.jyu.fi/juigmend/python-miscellaneous/-/blob/main/one_vs_others.ipynb">One vs. Others</a> (Jupyter notebook) Shows how the Dynamic Time Warping minimum-warp optimal path could be used to assess anticipation or delay of one moving body compared to others.</li>
+<li><a href="https://gitlab.jyu.fi/juigmend/python-miscellaneous/-/blob/main/one_vs_others.ipynb">One vs. Others</a> (Jupyter notebook) Shows how the Dynamic Time Warping minimum-warp optimal path could be used to assess anticipation or delay of one moving body relative to other moving bodies.</li>
 
 <br>
 
