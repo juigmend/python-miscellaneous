@@ -7,6 +7,10 @@ Miscellaneous <a href="https://www.python.org/">Python</a> code.
 <br>
 <ul>
 
+<li><a href="https://gitlab.jyu.fi/juigmend/python-miscellaneous/-/blob/main/audio_MIR_DEMO.ipynb">Audio and MIR</a> (Jupyter notebook) Load audio, extract chroma (keys), and perform segmentation with parametric clustering. </li>
+
+<br>
+
 <li><a href="https://gitlab.jyu.fi/juigmend/python-miscellaneous/-/blob/main/one_vs_others_DEMO.ipynb">One vs. Others</a> (Jupyter notebook) Shows how the Dynamic Time Warping minimum-warp optimal path could be used to assess anticipation or delay of one moving body relative to other moving bodies.</li>
 
 <br>
