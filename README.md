@@ -2,7 +2,7 @@
 
 Miscellaneous <a href="https://www.python.org/">Python</a> code.
 
-## Description 
+## Description of some programs 
 
 <br>
 <ul>
