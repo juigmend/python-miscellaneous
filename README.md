@@ -8,7 +8,7 @@ Miscellaneous <a href="https://www.python.org/">Python</a> code.
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/audio_MIR_DEMO.ipynb">Generate Music
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/generate_music_bells_DEMO.ipynb">Generate Music
 with Synthesised Bell Sounds</a> (Jupyter notebook) Produces an mp3 file.</li>
 
 <br>
