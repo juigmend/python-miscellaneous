@@ -21,7 +21,7 @@ with Synthesised Bell Sounds</a> (Jupyter notebook) Produces an mp3 file.</li>
 
 <br>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/temporal_segmentation_DEMO.ipynb">Temporal Segmentation</a> (Jupyter notebook): Yet another implementation of Foote's classic segmentation procedure.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/temporal_segmentation_DEMO.ipynb">Temporal Segmentation</a> (Jupyter notebook) Yet another implementation of Foote's classic segmentation procedure.</li>
 
 <br>
 
