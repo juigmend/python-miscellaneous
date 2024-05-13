@@ -1,8 +1,4 @@
-# Python miscellaneous
-
-Miscellaneous <a href="https://www.python.org/">Python</a> code.
-
-<!--- ## Description of some files --->
+# <a href="https://www.python.org/">Python</a> miscellaneous
 
 <br>
 
