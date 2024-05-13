@@ -2,7 +2,7 @@
 
 Miscellaneous <a href="https://www.python.org/">Python</a> code.
 
-## Description of some files 
+<!--- ## Description of some files --->
 
 <br>
 
@@ -22,6 +22,10 @@ with Synthesised Bell Sounds</a> (Jupyter notebook) Produces an mp3 file.</li>
 <br>
 
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/dtw_minwarp_DEMO.ipynb">DTW, Minimum-Warp Path, and Pointwise Warp</a> (Jupyter notebook) Two methods for the Dynamic Time Warping algorithm: a library function, and a procedural script. Also algorithms to reduce the time-warping of the optimal path and to get its pointwise warp.</li>
+
+<br>
+
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/temporal_segmentation_DEMO.ipynb">Temporal Segmentation</a> (Jupyter notebook): Yet another implementation of Foote's classic segmentation procedure.</li>
 
 <br>
 
