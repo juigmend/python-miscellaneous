@@ -21,6 +21,10 @@ with Synthesised Bell Sounds</a> (Jupyter notebook) Produces an mp3 file.</li>
 
 <br>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/red-rect-multigran-seg-MAD_DEMO.ipynb">Reduced Rectified Multigranular Segmentation of Mean Absolute Deviation</a> (Jupyter notebook)</li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/red-rect-multigran-seg_DEMO.ipynb">Reduced Rectified Multigranular Segmentation</a> (Jupyter notebook) Aligned segmentation boundaries. </li>
 
 <br>
