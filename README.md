@@ -38,6 +38,10 @@ Shows the computation of a novelty score comparing the methods 'offline' (Foote,
 
 <br>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/logistic_function_DEMO.ipynb">Logistic Function</a> (Jupyter notebook) </li>
+
+<br>
+
 <li>
 Utilities: 
   
