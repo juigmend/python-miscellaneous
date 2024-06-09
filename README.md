@@ -42,13 +42,19 @@ Shows the computation of a novelty score comparing the methods 'offline' (Foote,
 
 <br>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/SQLite_DEMO.ipynb">SQLite</a> (Jupyter notebook) Some basic database procedures. </li>
+
+<br>
+
 <li>
 Utilities: 
   
+- write_CSV.ipynb
 - batch_rename_files_DEMO.ipynb
 - batch_set_CSV_separator_DEMO.ipynb
 - batch_token_delete_CSV_cols_DEMO.ipynb
 - batch_remove_CSV_scientific_notation_DEMO.ipynb
+
 </li>
 
 </ul>
