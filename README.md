@@ -4,6 +4,10 @@
 
 <ul>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Correlation_Nasdaq_Nordic_DEMO.ipynb">Correlation Analysis of Nasdaq Nordic Stocks priced in Euros</a> (Jupyter notebook) Visualisation of historical prices of stocks and their pairwise correlation at different time-scales.</li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/generate_music_bells_DEMO.ipynb">Generate Music
 with Synthesised Bell Sounds</a> (Jupyter notebook) Produces an mp3 file.</li>
 
