@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Correlation_Nasdaq_Nordic_DEMO.ipynb">Correlation Analysis of Nasdaq Nordic Stocks priced in Euros</a> (Jupyter notebook) Visualisation of historical prices of stocks and their pairwise correlation at different time-scales.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Correlation_Nasdaq_Nordic_DEMO.ipynb">Correlation Analysis of Nasdaq Nordic Stocks priced in Euros</a> (Jupyter notebook) Pairwise correlation of historical prices at different time-scales, grouping by industry-supersector, visualisation of notable examples, and selection of uncorrelated stocks.</li>
 
 <br>
 
