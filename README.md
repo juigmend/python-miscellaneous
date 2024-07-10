@@ -4,11 +4,11 @@
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Visualisation_Nasdaq_Nordic_DEMO.ipynb">Visualisation of Nasdaq Nordic Stocks priced in Euros</a> (Jupyter notebook) Plots of historical rescaled average prices as time-series, grouped by Industry and Supersector.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Visualisation_Nasdaq_Nordic_DEMO.ipynb">Visualisation of Nasdaq Nordic Stocks priced in Euros</a> (Jupyter notebook) Plots of historical rescaled average prices as time-series, grouped by industry and supersector.</li>
 
 <br>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Correlation_Nasdaq_Nordic_DEMO.ipynb">Correlation Analysis of Nasdaq Nordic Stocks priced in Euros</a> (Jupyter notebook) Pairwise correlation of historical average prices at different time-scales, grouping by industry-supersector, visualisation of notable examples, and selection of uncorrelated stocks.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Correlation_Nasdaq_Nordic_DEMO.ipynb">Correlation Analysis of Nasdaq Nordic Stocks priced in Euros</a> (Jupyter notebook) Pairwise correlation of historical average prices at different time-scales, grouping by industry and supersector, visualisation of notable examples, and selection of uncorrelated stocks.</li>
 
 <br>
 
