@@ -4,6 +4,10 @@
 
 <ul>
 
+
+
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Pose_Detection_DEMO.ipynb">Pose Detection in Video</a> (Jupyter notebook) Downloads video from Youtube and detects the bodies of people in the image, tracking bodily movement.</li>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Visualisation_Nasdaq_Nordic_DEMO.ipynb">Visualisation of Nasdaq Nordic Stocks priced in Euros</a> (Jupyter notebook) Plots of historical rescaled average prices as time-series, grouped by industry and supersector.</li>
 
 <br>
