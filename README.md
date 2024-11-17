@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Pose_Detection_DEMO.ipynb">Pose Detection in Video</a> (Jupyter notebook) Downloads video from Youtube and detects the bodies of people in the image, tracking bodily movement.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Pose_Detection_Tracking_Youtube_DEMO.ipynb">Pose Detection and Tracking in Youtube Video</a> (Jupyter notebook) Downloads video from Youtube and detects the bodies of individual people in the image.</li>
 
 <br>
 
