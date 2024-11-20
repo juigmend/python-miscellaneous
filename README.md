@@ -4,7 +4,11 @@
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Pose_Detection_Tracking_Youtube_DEMO.ipynb">Pose Detection and Tracking in Youtube Video</a> (Jupyter notebook) Downloads video from Youtube and detects the bodies of individual people in the image.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Pre-processing_AlphaPose_DEMO.ipynb">Pre-processing of AlphaPose Tracking Output</a> (Jupyter notebook)</li>
+
+<br>
+
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Pose_Detection_Tracking_Youtube_DEMO.ipynb">Pose Detection and Tracking in Youtube Video using AlphaPose</a> (Jupyter notebook) Downloads video from Youtube and detects the bodies of individual people in the image.</li>
 
 <br>
 
