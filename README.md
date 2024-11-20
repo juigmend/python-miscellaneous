@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Pre-processing_AlphaPose_DEMO.ipynb">Pre-processing of AlphaPose Tracking Output</a> (Jupyter notebook)</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Pre-processing_AlphaPose_Output_DEMO.ipynb">Pre-processing of AlphaPose Output</a> (Jupyter notebook) Extracts one point of each individual tracked by AlphaPose, cleans the data, and saves to file.</li>
 
 <br>
 
