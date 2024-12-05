@@ -4,7 +4,8 @@
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Segmentation_Root_Chords_DEMO.ipynb">Segmentation by Roots of Chords in Audio File</a> (Jupyter notebook) Finds the roots of chords and groups them according to recurrence.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Recurrence_Chord_Roots_DEMO.ipynb">Recurrence of Chord Roots
+in Audio File</a> (Jupyter notebook) Finds the roots of chords, groups them according to recurrence, and finds the time location of their boundaries. </li>
 
 <br>
 
