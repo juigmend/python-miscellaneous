@@ -4,6 +4,10 @@
 
 <ul>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Segmentation_Root_Chords_DEMO.ipynb">Segmentation by Roots of Chords in Audio File</a> (Jupyter notebook) Finds the roots of chords and groups them according to recurrence.</li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Pre-processing_AlphaPose_Output_DEMO.ipynb">Pre-processing of AlphaPose Output</a> (Jupyter notebook) Extracts one point of each individual tracked by AlphaPose, cleans the data, and saves to a file.</li>
 
 <br>
