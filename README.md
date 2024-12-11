@@ -4,6 +4,12 @@
 
 <ul>
 
+Isochronal Time-Rescaling
+
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Isochronal_Time_Rescaling_DEMO.ipynb">Isochronal Time-Rescaling</a> (Jupyter notebook) Time-rescaling of two or more signals into isochronal sections. </li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Recurrence_Chord_Roots_DEMO.ipynb">Recurrence of Chord Roots
 in Audio File</a> (Jupyter notebook) Finds the roots of chords, groups them according to recurrence, and finds the time location of their boundaries. </li>
 
