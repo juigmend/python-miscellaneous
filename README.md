@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Anamorphic_2D_Gaussian_DEMO.ipynb">Anamorphic Two-dimensional Gaussian Kernel</a> (Jupyter notebook) Non-square matrix with centered normal distribution values.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Anamorphic_2D_Gaussian_DEMO.ipynb">Anamorphic Two-Dimensional Gaussian Kernel</a> (Jupyter notebook) Non-square matrix with centered normal distribution values.</li>
 
 <br>
 
