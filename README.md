@@ -4,6 +4,10 @@
 
 <ul>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Anamorphic_2D_Gaussian_DEMO.ipynb">Anamorphic Two-dimensional Gaussian Kernel</a> (Jupyter notebook) Non-square matrix with centered normal distribution values.</li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Isochronal_Time_Rescaling_DEMO.ipynb">Isochronal Time-Rescaling</a> (Jupyter notebook) Time-rescaling of two or more signals into isochronal sections. </li>
 
 <br>
