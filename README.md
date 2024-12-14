@@ -4,6 +4,10 @@
 
 <ul>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/2D_Density_Estimation_DEMO.ipynb"> Two-Dimensional Density Estimation</a> (Jupyter notebook) Density of several signals' peaks, preserving signal strength.</li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Anamorphic_2D_Gaussian_DEMO.ipynb">Anamorphic Two-Dimensional Gaussian Kernel</a> (Jupyter notebook) Non-square matrix with centered normal distribution values.</li>
 
 <br>
