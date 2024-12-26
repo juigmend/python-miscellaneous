@@ -4,6 +4,10 @@
 
 <ul>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/PLV_DEMO.ipynb"> Phase-Locking Value</a> (Jupyter notebook) Measures  the stability of phase difference amongst two or more periodic signals.</li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/2D_Density_Estimation_DEMO.ipynb"> Two-Dimensional Density Estimation</a> (Jupyter notebook) Density of several signals' peaks, preserving signal strength.</li>
 
 <br>
