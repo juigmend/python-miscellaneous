@@ -25,7 +25,7 @@ in Audio File</a> (Jupyter notebook) Finds the roots of chords, groups them acco
 
 <br>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/AlphaPose_Motion_Tracking_Video_Files_DEMO.ipynb">AlphaPose tracking and pre-processing of video files</a> (Jupyter notebook) Tracks individuals in one or several video files, extracts one point for each individual, cleans the data, and saves to a file. Also generates plots and logs for data inspection.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/AlphaPose_Motion_Tracking_Video_Files_DEMO.ipynb">Tracking and Pre-processing of Video Files with AlphaPose</a> (Jupyter notebook) Tracks individuals in one or several video files, extracts one point for each individual, cleans the data, and saves to a file. Also generates plots and logs for data inspection.</li>
 
 <br>
 
