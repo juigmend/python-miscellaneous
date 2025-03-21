@@ -3,6 +3,10 @@
 <br>
 
 <ul>
+  
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Generate_Synth_Synch_Data_DEMO.ipynb"> Synthetic Oscillatory Data</a> (Jupyter notebook) Generates data to test the measurement of synchronisation.</li>
+
+<br>
 
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/PLV_DEMO.ipynb"> Phase-Locking Value</a> (Jupyter notebook) Measures  the stability of phase difference amongst two or more periodic signals.</li>
 
