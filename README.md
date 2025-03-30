@@ -41,6 +41,10 @@ in Audio File</a> (Jupyter notebook) Finds the roots of chords, groups them acco
 
 <br>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Download_Youtube_Video_DEMO.ipynb">Download Youtube Video</a> (Jupyter notebook) Downloads video from Youtube and writes a file with properties.</li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Visualisation_Nasdaq_Nordic_DEMO.ipynb">Visualisation of Nasdaq Nordic Stocks priced in Euros</a> (Jupyter notebook) Plots of historical rescaled average prices as time-series, grouped by industry and supersector.</li>
 
 <br>
