@@ -41,6 +41,10 @@ in Audio File</a> (Jupyter notebook) Finds the roots of chords, groups them acco
 
 <br>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Video_Trim_Crop_DEMO.ipynb">Trim and Crop Video</a> (Jupyter notebook)</li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Download_Youtube_Video_DEMO.ipynb">Download Youtube Video</a> (Jupyter notebook) Downloads video from Youtube and writes a file with properties.</li>
 
 <br>
