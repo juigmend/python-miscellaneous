@@ -102,13 +102,13 @@ Shows the computation of a novelty score comparing the methods 'offline' (Foote,
 <li>
 Utilities: 
   
-- write_CSV.ipynb
-- batch_rename_files_DEMO.ipynb
-- batch_set_CSV_separator_DEMO.ipynb
-- batch_convert_image_files_DEMO.ipynb
-- batch_token_delete_CSV_cols_DEMO.ipynb
-- batch_remove_CSV_scientific_notation_DEMO.ipynb
-- [Find String in Files](https://github.com/juigmend/python-miscellaneous/blob/main/Find_String_in_Files_DEMO.ipynb)
+- [write_CSV.ipynb](https://github.com/juigmend/python-miscellaneous/blob/main/write_CSV.ipynb)
+- [batch_rename_files_DEMO.ipynb](https://github.com/juigmend/python-miscellaneous/blob/main/batch_rename_files_DEMO.ipynb)
+- [batch_set_CSV_separator_DEMO.ipynb](https://github.com/juigmend/python-miscellaneous/blob/main/batch_set_CSV_separator_DEMO.ipynb)
+- [batch_convert_image_files_DEMO.ipynb](https://github.com/juigmend/python-miscellaneous/blob/main/batch_convert_image_files_DEMO.ipynb)
+- [batch_token_delete_CSV_cols_DEMO.ipynb](https://github.com/juigmend/python-miscellaneous/blob/main/batch_token_delete_CSV_cols_DEMO.ipynb)
+- [batch_remove_CSV_scientific_notation_DEMO.ipynb](https://github.com/juigmend/python-miscellaneous/blob/main/batch_remove_CSV_scientific_notation_DEMO.ipynb)
+- [Find_String_in_Files_DEMO.ipynb](https://github.com/juigmend/python-miscellaneous/blob/main/Find_String_in_Files_DEMO.ipynb)
 
 
 </li>
