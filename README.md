@@ -108,6 +108,7 @@ Utilities:
 - batch_convert_image_files_DEMO.ipynb
 - batch_token_delete_CSV_cols_DEMO.ipynb
 - batch_remove_CSV_scientific_notation_DEMO.ipynb
+- [Find String in Files](https://github.com/juigmend/python-miscellaneous/blob/main/Find_String_in_Files_DEMO.ipynb)
 
 
 </li>
