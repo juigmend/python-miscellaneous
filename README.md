@@ -3,6 +3,10 @@
 <br>
 
 <ul>
+
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Visualise_Skeletons_DEMO.ipynb"> Visualise Skeletons</a> (Jupyter notebook) Generates a picture or video with skeletons from a pose estimation file produced by AlphaPose.</li>
+
+<br>
   
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Generate_Synth_Synch_Data_DEMO.ipynb"> Synthetic Oscillatory Data</a> (Jupyter notebook) Generates data to test the measurement of synchronisation.</li>
 
