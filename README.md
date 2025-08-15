@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Visualise_Skeletons_DEMO.ipynb"> Visualise Skeletons</a> (Jupyter notebook) Generates a picture or video with skeletons from a pose estimation file produced by AlphaPose.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Visualise_Skeletons_DEMO.ipynb"> Visualise Skeletons</a> (Jupyter notebook) Generates a figure or video with skeletons from a pose estimation file produced by AlphaPose.</li>
 
 <br>
   
