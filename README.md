@@ -16,6 +16,10 @@
 
 <br>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/WCT_DEMO.ipynb"> Wavelet Coherence Transform</a> (Jupyter notebook) Measures the stability of phase difference amongst two or more periodic signals, at different time scales.</li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/2D_Density_Estimation_DEMO.ipynb"> Two-Dimensional Density Estimation</a> (Jupyter notebook) Density of several signals' peaks, preserving signal strength.</li>
 
 <br>
