@@ -12,11 +12,11 @@
 
 <br>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/PLV_DEMO.ipynb"> Phase-Locking Value</a> (Jupyter notebook) Measures  the stability of phase difference amongst two or more periodic signals.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/WCT_DEMO.ipynb"> Wavelet Coherence Transform</a> (Jupyter notebook) Measures the consistency of phase difference amongst two or more periodic signals, at different time scales.</li>
 
 <br>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/WCT_DEMO.ipynb"> Wavelet Coherence Transform</a> (Jupyter notebook) Measures the stability of phase difference amongst two or more periodic signals, at different time scales.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/PLV_DEMO.ipynb"> Phase-Locking Value</a> (Jupyter notebook) Measures the consistency of phase difference amongst two or more periodic signals.</li>
 
 <br>
 
