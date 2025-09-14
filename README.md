@@ -7,12 +7,12 @@
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Visualise_Skeletons_DEMO.ipynb"> Visualise Skeletons</a> (Jupyter notebook) Generates a figure or video with skeletons from a pose estimation file produced by AlphaPose.</li>
 
 <br>
-  
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Generate_Synth_Synch_Data_DEMO.ipynb"> Synthetic Oscillatory Data</a> (Jupyter notebook) Generates data to test the measurement of synchronisation.</li>
-
-<br>
 
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/WCT_DEMO.ipynb"> Wavelet Coherence Transform</a> (Jupyter notebook) Measures the consistency of phase difference amongst two or more periodic signals, at different time scales.</li>
+
+<br>
+  
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/Generate_Synth_Synch_Data_DEMO.ipynb"> Synthetic Oscillatory Data</a> (Jupyter notebook) Generates data to test the measurement of synchronisation.</li>
 
 <br>
 
