@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/ANN_regression_DEMO.ipynb"> ANN Regression </a> (Jupyter notebook) Demonstration of an artificial neural network (ANN) for solving a regression problem. The ANN is written in plain Python, except Numpy.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/ANN_regression_DEMO.ipynb"> ANN Regression </a> (Jupyter notebook) Artificial neural network (ANN) for solving a regression problem. The ANN is written in plain Python, except Numpy.</li>
 
 <br>
 
