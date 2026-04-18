@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/demix_beats_onsets_DEMO.ipynb"> Demix, Beats, and Onsets </a> (Jupyter notebook) Musical audio source separation, and identification of beats, downbeats, and onsets.</li>
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/demix_beats_onsets_DEMO.ipynb"> Demix, Beats, and Onsets </a> (Jupyter notebook) Musical audio source separation; identification of beats, downbeats, and onsets.</li>
 
 <br>
 
