@@ -4,6 +4,10 @@
 
 <ul>
 
+<li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/demix_beats_onsets_DEMO.ipynb"> Demix Beats Onsets </a> (Jupyter notebook) Musical audio source separation, and identification of beats, downbeats, and onsets.</li>
+
+<br>
+
 <li><a href="https://github.com/juigmend/python-miscellaneous/blob/main/ANN_regression_DEMO.ipynb"> ANN Regression </a> (Jupyter notebook) Artificial neural network (ANN) for solving a regression problem. The ANN is written in plain Python, except for Numpy.</li>
 
 <br>
